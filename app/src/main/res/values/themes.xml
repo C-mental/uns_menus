@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema base usando AppCompat con barra de acción -->
+    <style name="Theme.SEM08" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Puedes personalizar colores aquí -->
+        <item name="colorPrimary">#D20037</item> <!-- UNS rojo -->
+        <item name="colorPrimaryDark">#A0002A</item>
+        <item name="colorAccent">#D20037</item>
+    </style>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SEM08</string>
+    <string name="menu_informacion">Información</string>
+    <string name="menu_salir">Salir</string>
+    <string name="menu_contacto">Contáctanos</string>
+    <string name="menu_eventos">Eventos</string>
+    <string name="menu_recargar">Recargar</string>
+    <string name="menu_atras">Atrás</string>
+    <string name="bienvenido_usuario">Bienvenido, %1$s</string>
+    <string name="seleccionado">Seleccionado: %1$s</string>
+    <string name="info_uns">UNS: Universidad Nacional del Santa</string>
+</resources>

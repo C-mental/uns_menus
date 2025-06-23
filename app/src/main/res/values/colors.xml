@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="uns_red">#D20037</color> <!-- PANTONE DS 98-1 C -->
+    <color name="uns_background">#FDFDFD</color>
+    <color name="uns_text">#333333</color>
+</resources>
